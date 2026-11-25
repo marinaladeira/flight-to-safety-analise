@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Dados de provedores que não permitem redistribuição (ver README)
+dados/brutos/*/anbima_*.xlsx
+dados/brutos/*/cboe_*.csv
+dados/brutos/*/yahoo_*.csv
+dados/brutos/complementares/ipeadata_*.json
+dados/processados/base_diaria.csv
