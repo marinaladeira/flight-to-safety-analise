@@ -4,6 +4,14 @@ Código e resultados para reproduzir as análises do artigo *O título público 
 
 O estudo compara a correlação diária entre ações e título público nos dois países, de 16/09/2003 a 30/09/2026: S&P 500 x Treasury de 10 anos nos EUA e Ibovespa x IMA-B (NTN-B) no Brasil, em crise e fora dela.
 
+## Autores
+
+- Marina Buzin Ladeira
+- Marcelo Saadi Pessini
+- Mauricio Trapnell Felicissimo
+- Mateus Marçal Barbosa de Melo Góis
+- João Paulo Santos
+
 ## Como reproduzir
 
 Requer Python 3.12 (testado com 3.12.5).
